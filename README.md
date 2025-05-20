@@ -20,8 +20,7 @@ This repository is to showcase my skills, share projects and track my progess in
     - SQL
         - [Pizza Sales](#pizza-sales)
     - Tableau
-          -
-      [EV Analysis](#ev-analysis)
+        - [EV Analysis](#ev-analysis)
     - Power BI
         - [Pizza Sales](#pizza-sales)
  
