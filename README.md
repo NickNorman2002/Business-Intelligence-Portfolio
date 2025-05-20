@@ -13,7 +13,7 @@ This repository is to showcase my skills, share projects and track my progess in
 
 - [About](#About)
 
-- [Portfolio Projects](#portfolio-projects)(link the text to bring you down to the portolio projects part of this repository)
+- [Portfolio Projects](#portfolio-projects)
 
     - Python
         - [EV Analysis](#ev-analysis)
@@ -54,3 +54,19 @@ In this section I highlight my data analytics and business intelligence projects
 **Technology:**
 
 
+## Education
+
+University of Western Ontario: Bachelors of BMOS - Business Intelligence, September 2020 - April 2025
+
+
+## Certificates
+
+While I believe real skills show through projects and hands-on work, these certificates represent key moments in my learning journey. They were completed along the way as I deepend my understanding of data tools and techniques: 
+
+- [Google Business Intelligence](https://coursera.org/share/22cefa62273fe181526ee69f755c0485) (July 2023) (Coursera - Google)
+
+
+## Contacts
+
+- Linkedin: [@NickNorman](www.linkedin.com/in/nicknorman1)
+- Email: [nicknorman2002@gmail.com](mailto:nicknorman2002@gmail.com)
