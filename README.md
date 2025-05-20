@@ -68,5 +68,5 @@ While I believe real skills show through projects and hands-on work, these certi
 
 ## Contacts
 
-- Linkedin: [@NickNorman](www.linkedin.com/in/nicknorman1)
+- Linkedin: [@NickNorman](https://www.linkedin.com/in/nicknorman1)
 - Email: [nicknorman2002@gmail.com](mailto:nicknorman2002@gmail.com)
