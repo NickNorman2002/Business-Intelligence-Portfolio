@@ -37,18 +37,18 @@ In this section I highlight my data analytics and business intelligence projects
 
 ## EV Analysis
 
-**Goal** 
-
 **Code:** [EV_Analysis.ipynb](./EV_Analysis.ipynb)
-**Dashboard** [EV_Analysis_Dashboard.twbx]
+**Dashboard:** [EV Analysis Dashboard.twbx](EV_Analysis_Dashboard.twbx)
+
+**Goal:** To analyze electric vehicle registration data in order to uncover trends in EV growth, identify the most common makes and models, evaluate vehicle eligibility for enviormental incentives. 
 
 **Description** This project focused on analyzing a electric vehicle dataset containing over 130,000 entries, including vehicle make, model, range, eligibility status, and registration state. Key steps included data cleaning in Python, exploratory data analysis (EDA), and interactive dashboard development in Tableau. It highlights top EV manufacturers, compares BEV vs. PHEV adoption, maps state-by-state usage, and explores vehicle eligiiblity for Clean Air Vehicle (CAV) incentives. 
 
-**Skills** Data Cleaning, Data Analysis, EDA, Data Visualization, Interactive Dashboarding, Filtering and Drilldowns
+**Skills:** Data Cleaning, Data Analysis, EDA, Data Visualization, Interactive Dashboarding, Filtering and Drilldowns.
 
-**Technology:** Python (Pandas, Matplotlib), Tableau
+**Technology:** Python (Pandas, Matplotlib), Tableau.
 
-**Results** The final Tableau dashboard presents key insights such as Tesla dominating with over 50% of the EV market, a sharp increase in electric vehicle registrations beginning in 2018, and the dominance of the BEVs (Battery Electric Vehicles). Additionally, the top 10 vehicle models account for the vast majority of all EVs, with the Tesla Model 3 and Model Y leading in adoption. 
+**Results:** The final Tableau dashboard presents key insights such as Tesla dominating with over 50% of the EV market, a sharp increase in electric vehicle registrations beginning in 2018, and the dominance of the BEVs (Battery Electric Vehicles). Additionally, the top 10 vehicle models account for the vast majority of all EVs, with the Tesla Model 3 and Model Y leading in adoption. 
 
 
 ## Pizza Sales
