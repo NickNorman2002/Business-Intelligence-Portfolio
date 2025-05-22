@@ -38,7 +38,6 @@ In this section I highlight my data analytics and business intelligence projects
 ## EV Analysis
 
 **Code:** [EV_Analysis.ipynb](./EV_Analysis.ipynb)
-
 **Dashboard:** [EV Analysis Dashboard.twbx](EV_Analysis_Dashboard.twbx)
 
 **Goal:** To analyze electric vehicle registration data in order to uncover trends in EV growth, identify the most common makes and models, evaluate vehicle eligibility for enviormental incentives. 
