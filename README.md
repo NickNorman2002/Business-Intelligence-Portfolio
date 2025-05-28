@@ -57,7 +57,7 @@ In this section I highlight my data analytics and business intelligence projects
 
 **Code:** [Pizza_Sales.sql](Pizza_Sales.sql)
 
-**Dashboard:** [Click here to download the Power BI dashboard]
+**Dashboard:** [Click here to download the Power BI dashboard](Pizza_Sales_Dashboards.pbix)
 *(Right-click the link and select "Save/Download Link As..." if it doesn't download automatically.)*
 
 **Goal:**
