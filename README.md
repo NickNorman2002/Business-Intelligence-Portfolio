@@ -46,9 +46,9 @@ In this section I highlight my data analytics and business intelligence projects
 
 **Description** This project focused on analyzing a electric vehicle dataset containing over 130,000 entries, including vehicle make, model, range, eligibility status, and registration state. Key steps included data cleaning in Python, exploratory data analysis (EDA), and interactive dashboard development in Tableau. It highlights top EV manufacturers, compares BEV vs. PHEV adoption, maps state-by-state usage, and explores vehicle eligiiblity for Clean Air Vehicle (CAV) incentives. 
 
-**Skills:** Data Cleaning, Data Analysis, EDA, Data Visualization, Interactive Dashboarding, Filtering and Drilldowns.
+**Skills:** Data Cleaning, Data Analysis, EDA, Data Visualization, Interactive Dashboarding, and Filtering.
 
-**Technology:** Python (Pandas, Matplotlib), Tableau.
+**Technology:** Python (Pandas, Matplotlib), Tableau, Excel.
 
 **Results:** The final Tableau dashboard presents key insights such as Tesla dominating with over 50% of the EV market, a sharp increase in electric vehicle registrations beginning in 2018, and the dominance of the BEVs (Battery Electric Vehicles). Additionally, the top 10 vehicle models account for the vast majority of all EVs, with the Tesla Model 3 and Model Y leading in adoption. 
 
@@ -60,13 +60,15 @@ In this section I highlight my data analytics and business intelligence projects
 **Dashboard:** [Click here to download the Power BI dashboard](Pizza_Sales_Dashboards.pbix)
 *(Right-click the link and select "Save/Download Link As..." if it doesn't download automatically.)*
 
-**Goal:**
+**Goal:** To analyze pizza sales data in order to uncover top-performing products, highlight sales trends, and support data-driven decision-making for a fictional pizza business.
 
-**Description**
+**Description:** This project focused on analyzing a pizza sales dataset containing over 48,000 entries, including order ID, order date and time, pizza name, category, size, quantity, and total price. Key steps included cleaning the data in SQL Server by adjusting data types, renaming columns for clarity, removing unnecessary fields, and adding new columns such as “Order Hour” to support time-based analysis. Business KPIs were calculated using SQL queries, and the cleaned data was then imported into Power BI for dashboard development. The project resulted in two interactive dashboards: a Sales Overview dashboard highlighting revenue trends, order volume, and category performance; and a Best & Worst Sellers dashboard analyzing product performance across revenue, quantity sold, and number of orders.
 
-**Skills** 
+**Skills:** Data Cleaning, SQL Querying, KPI Development, Data Visualization, Interactive Dashboarding, and Filtering
 
-**Technology:** Python (Pandas, Matplotlib), Tableau
+**Technology:** SQL, Power BI, Excel
+
+**Results** The final Power BI dashboard presents key insights such as Thai Chicken Pizza generating the highest total revenue, while the Classic Deluxe Pizza leads in both quantity sold and total orders. Medium-sized pizzas were the most frequently purchased, and classic categories contributed the most to overall sales. Additionally, the Brioche Veggie Pizza consistently ranked as the lowest performer across all metrics, highlighting it as a potential candidate for menu optimization.
 
 
 ## Education
