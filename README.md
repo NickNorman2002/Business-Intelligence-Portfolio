@@ -55,7 +55,7 @@ In this section I highlight my data analytics and business intelligence projects
 
 ## Pizza Sales
 
-**Code:** [Pizza_Sales.sql]
+**Code:** [Pizza_Sales.sql](Pizza_Sales.sql)
 
 **Goal:**
 
