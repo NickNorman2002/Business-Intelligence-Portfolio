@@ -62,7 +62,9 @@ In this section I highlight my data analytics and business intelligence projects
 **Dashboard:** [Click here to download the Power BI dashboard](Pizza_Sales_Dashboards.pbix)
 *(Right-click the link and select "Save/Download Link As..." if it doesn't download automatically.)*
 
-![Dashboard Preview](Pizza_Sales_Dashboard_1)
+![Dashboard Preview](Pizza_Sales_Dashboard_1.png)
+
+![Dashboard Preview](Pizza_Sales_Dashboard_2.png)
 
 **Goal:** To analyze pizza sales data in order to uncover top-performing products, highlight sales trends, and support data-driven decision-making for a fictional pizza business.
 
