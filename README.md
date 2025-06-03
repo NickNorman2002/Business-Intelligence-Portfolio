@@ -42,7 +42,7 @@ In this section I highlight my data analytics and business intelligence projects
 **Dashboard:** [Click here to download the Tableau dashboard](EV_Analysis_Dashboard.twbx)
 *(Right-click the link and select "Save/Download Link As..." if it doesn't download automatically.)*
 
-[Dashboard Preview](Electric_Vehicle_Dashboard.png)
+**[Dashboard Preview](Electric_Vehicle_Dashboard.png)**
 
 **Goal:** To analyze electric vehicle registration data in order to uncover trends in EV growth, identify the most common makes and models, evaluate vehicle eligibility for enviormental incentives. 
 
