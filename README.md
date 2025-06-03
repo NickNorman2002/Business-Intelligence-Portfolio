@@ -42,6 +42,8 @@ In this section I highlight my data analytics and business intelligence projects
 **Dashboard:** [Click here to download the Tableau dashboard](EV_Analysis_Dashboard.twbx)
 *(Right-click the link and select "Save/Download Link As..." if it doesn't download automatically.)*
 
+[Dashboard Preview](Electric_Vehicle_Dashboard.png)
+
 **Goal:** To analyze electric vehicle registration data in order to uncover trends in EV growth, identify the most common makes and models, evaluate vehicle eligibility for enviormental incentives. 
 
 **Description** This project focused on analyzing a electric vehicle dataset containing over 130,000 entries, including vehicle make, model, range, eligibility status, and registration state. Key steps included data cleaning in Python, exploratory data analysis (EDA), and interactive dashboard development in Tableau. It highlights top EV manufacturers, compares BEV vs. PHEV adoption, maps state-by-state usage, and explores vehicle eligiiblity for Clean Air Vehicle (CAV) incentives. 
