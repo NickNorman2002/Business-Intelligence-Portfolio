@@ -62,6 +62,10 @@ In this section I highlight my data analytics and business intelligence projects
 **Dashboard:** [Click here to download the Power BI dashboard](Pizza_Sales_Dashboards.pbix)
 *(Right-click the link and select "Save/Download Link As..." if it doesn't download automatically.)*
 
+![Dashboard Preview](Pizza_Sales_Dashboard_1)
+
+![Dashboard Preview](Pizza_Sales_Dashboard_2)
+
 **Goal:** To analyze pizza sales data in order to uncover top-performing products, highlight sales trends, and support data-driven decision-making for a fictional pizza business.
 
 **Description:** This project focused on analyzing a pizza sales dataset containing over 48,000 entries, including order ID, order date and time, pizza name, category, size, quantity, and total price. Key steps included cleaning the data in SQL Server by adjusting data types, renaming columns for clarity, removing unnecessary fields, and adding new columns such as “Order Hour” to support time-based analysis. Business KPIs were calculated using SQL queries, and the cleaned data was then imported into Power BI for dashboard development. The project resulted in two interactive dashboards: a Sales Overview dashboard highlighting revenue trends, order volume, and category performance; and a Best & Worst Sellers dashboard analyzing product performance across revenue, quantity sold, and number of orders.
