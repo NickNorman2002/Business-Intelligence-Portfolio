@@ -43,7 +43,7 @@ In this section I highlight my data analytics and business intelligence projects
 **Code:** [Bank_Loan.sql](Bank_Loan.sql)
 
 **Dashboard:** [Click here to download the Power BI dashboard](Bank_Loan_Dashboards.pbix)
-*(Right-click the link and select "Save/Download Link As..." if it doesn't download automatically.)*
+*(When the file opens in Github, click the "View raw" button to download the dashboard.)*
 
 ![Dashboard Preview](Bank_Loan_Dashboard_1.png)
 
@@ -67,7 +67,7 @@ In this section I highlight my data analytics and business intelligence projects
 **Code:** [Pizza_Sales.sql](Pizza_Sales.sql)
 
 **Dashboard:** [Click here to download the Power BI dashboard](Pizza_Sales_Dashboards.pbix)
-*(Right-click the link and select "Save/Download Link As..." if it doesn't download automatically.)*
+*(When the file opens in Github, click the "View raw" button to download the dashboard.)*
 
 ![Dashboard Preview](Pizza_Sales_Dashboard_1.png)
 
@@ -89,7 +89,7 @@ In this section I highlight my data analytics and business intelligence projects
 **Code:** [EV_Analysis.ipynb](./EV_Analysis.ipynb)
 
 **Dashboard:** [Click here to download the Tableau dashboard](EV_Analysis_Dashboard.twbx)
-*(Right-click the link and select "Save/Download Link As..." if it doesn't download automatically.)*
+*(When the file opens in Github, click the "View raw" button to download the dashboard.)*
 
 ![Dashboard Preview](Electric_Vehicle_Dashboard.png)
 
