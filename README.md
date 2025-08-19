@@ -18,10 +18,12 @@ This repository is to showcase my skills, share projects and track my progess in
     - Python
         - [EV Analysis](#ev-analysis)
     - SQL
+        - [Bank Loan Analysis](#bank-loan-analysis)
         - [Pizza Sales](#pizza-sales)
     - Tableau
         - [EV Analysis](#ev-analysis)
     - Power BI
+        - [Bank Loan Analysis](#bank-loan-analysis)
         - [Pizza Sales](#pizza-sales)
  
 - [Education](#education)
@@ -35,25 +37,10 @@ This repository is to showcase my skills, share projects and track my progess in
 
 In this section I highlight my data analytics and business intelligence projects. Each project includes a brief overview of the goal, the tools and skills used, a short description of the process, and key results. 
 
-## EV Analysis
 
-**Code:** [EV_Analysis.ipynb](./EV_Analysis.ipynb)
+## Bank Loan Analysis
 
-**Dashboard:** [Click here to download the Tableau dashboard](EV_Analysis_Dashboard.twbx)
-*(Right-click the link and select "Save/Download Link As..." if it doesn't download automatically.)*
-
-![Dashboard Preview](Electric_Vehicle_Dashboard.png)
-
-**Goal:** To analyze electric vehicle registration data in order to uncover trends in EV growth, identify the most common makes and models, evaluate vehicle eligibility for enviormental incentives. 
-
-**Description** This project focused on analyzing a electric vehicle dataset containing over 130,000 entries, including vehicle make, model, range, eligibility status, and registration state. Key steps included data cleaning in Python, exploratory data analysis (EDA), and interactive dashboard development in Tableau. It highlights top EV manufacturers, compares BEV vs. PHEV adoption, maps state-by-state usage, and explores vehicle eligiiblity for Clean Air Vehicle (CAV) incentives. 
-
-**Skills:** Data Cleaning, Data Analysis, EDA, Data Visualization, Interactive Dashboarding, and Filtering.
-
-**Technology:** Python (Pandas, Matplotlib), Tableau, Excel.
-
-**Results:** The final Tableau dashboard presents key insights such as Tesla dominating with over 50% of the EV market, a sharp increase in electric vehicle registrations beginning in 2018, and the dominance of the BEVs (Battery Electric Vehicles). Additionally, the top 10 vehicle models account for the vast majority of all EVs, with the Tesla Model 3 and Model Y leading in adoption. 
-
+**Code:** [Bank_Loan.sql](Bank_Loan.sql)
 
 ## Pizza Sales
 
@@ -74,7 +61,27 @@ In this section I highlight my data analytics and business intelligence projects
 
 **Technology:** SQL, Power BI, Excel
 
-**Results** The final Power BI dashboard presents key insights such as Thai Chicken Pizza generating the highest total revenue, while the Classic Deluxe Pizza leads in both quantity sold and total orders. Medium-sized pizzas were the most frequently purchased, and classic categories contributed the most to overall sales. Additionally, the Brioche Veggie Pizza consistently ranked as the lowest performer across all metrics, highlighting it as a potential candidate for menu optimization.
+**Results:** The final Power BI dashboard presents key insights such as Thai Chicken Pizza generating the highest total revenue, while the Classic Deluxe Pizza leads in both quantity sold and total orders. Medium-sized pizzas were the most frequently purchased, and classic categories contributed the most to overall sales. Additionally, the Brioche Veggie Pizza consistently ranked as the lowest performer across all metrics, highlighting it as a potential candidate for menu optimization.
+
+
+## EV Analysis
+
+**Code:** [EV_Analysis.ipynb](./EV_Analysis.ipynb)
+
+**Dashboard:** [Click here to download the Tableau dashboard](EV_Analysis_Dashboard.twbx)
+*(Right-click the link and select "Save/Download Link As..." if it doesn't download automatically.)*
+
+![Dashboard Preview](Electric_Vehicle_Dashboard.png)
+
+**Goal:** To analyze electric vehicle registration data in order to uncover trends in EV growth, identify the most common makes and models, evaluate vehicle eligibility for enviormental incentives. 
+
+**Description** This project focused on analyzing a electric vehicle dataset containing over 130,000 entries, including vehicle make, model, range, eligibility status, and registration state. Key steps included data cleaning in Python, exploratory data analysis (EDA), and interactive dashboard development in Tableau. It highlights top EV manufacturers, compares BEV vs. PHEV adoption, maps state-by-state usage, and explores vehicle eligiiblity for Clean Air Vehicle (CAV) incentives. 
+
+**Skills:** Data Cleaning, Data Analysis, EDA, Data Visualization, Interactive Dashboarding, and Filtering.
+
+**Technology:** Python (Pandas, Matplotlib), Tableau, Excel.
+
+**Results:** The final Tableau dashboard presents key insights such as Tesla dominating with over 50% of the EV market, a sharp increase in electric vehicle registrations beginning in 2018, and the dominance of the BEVs (Battery Electric Vehicles). Additionally, the top 10 vehicle models account for the vast majority of all EVs, with the Tesla Model 3 and Model Y leading in adoption. 
 
 
 ## Education
