@@ -42,6 +42,26 @@ In this section I highlight my data analytics and business intelligence projects
 
 **Code:** [Bank_Loan.sql](Bank_Loan.sql)
 
+**Dashboard:** [Click here to download the Power BI dashboard](Bank_Loan_Dashboards.pbix)
+*(Right-click the link and select "Save/Download Link As..." if it doesn't download automatically.)*
+
+![Dashboard Preview](Bank_Loan_Dashboard_1.png)
+
+![Dashboard Preview](Bank_Loan_Dashboard_2.png)
+
+![Dashboard Preview](Bank_Loan_Dashboard_3.png)
+
+**Goal:** 
+
+**Description:**
+
+**Skills:**
+
+**Technology:** SQL, Power BI, Excel
+
+**Results:**
+
+
 ## Pizza Sales
 
 **Code:** [Pizza_Sales.sql](Pizza_Sales.sql)
