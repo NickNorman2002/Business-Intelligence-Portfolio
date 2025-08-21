@@ -57,9 +57,9 @@ In this section I highlight my data analytics and business intelligence projects
 
 ![Dashboard Preview](Bank_Loan_Dashboard_3.png)
 
-**Goal:** 
+**Goal:** To evaluate the bank's loan portfolio to identify overall lending patterns, repayment performance, and areas of risk. 
 
-**Description:**
+**Description:** 
 
 **Skills:**
 
