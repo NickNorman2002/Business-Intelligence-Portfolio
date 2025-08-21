@@ -5,9 +5,9 @@ Hi, I'm Nick! I recently graduated in April 2025 with a Bachelor of Management a
 
 My work includes data cleaning, statistical analysis, and visualization using tools like Python, SQL, Excel, Tableau, and Power BI. I've built interactive dashboards to support business decisions, automated reporting pipelines, and applied predictive analytics to uncover insights that drive growth. 
 
-In my free time, I enjoy exploring new BI tools, contributing to peer development as a volunteer career advisor, and continously finding ways to connect data with meaningful outcomes. I'm excited to continue developing as a data analyst and business intelligence professional, and to bring my curoisty, grit, and technical skills to impactful, data-driven roles. 
+In my free time, I enjoy exploring new BI tools, contributing to peer development as a volunteer career advisor, and continuously finding ways to connect data with meaningful outcomes. I'm excited to continue developing as a data analyst and business intelligence professional, and to bring my curiosity, grit, and technical skills to impactful, data-driven roles. 
 
-This repository is to showcase my skills, share projects and track my progess in Business Intelligence/Data Analytics related topics. 
+This repository showcases my skills, share projects and track my progress in Business Intelligence/Data Analytics related topics. 
 
 ## Table of Contents
 
@@ -59,14 +59,14 @@ In this section I highlight my data analytics and business intelligence projects
 
 **Goal:** To evaluate the bank's loan portfolio to identify overall lending patterns, repayment performance, and areas of risk. 
 
-**Description:** This project used a dataset of 38.6K loan applications with details on loan amounts, funded and recieved values, borrower characteristics, and repayment outcomes. Using SQL for data cleaning and queries, and Power BI for visualization, I built an interactive dashboard with three layers: 
-- Summary: total applications, funded vs received amounts, good vs bad loan split, and portfolio KPIs.
-- Overview: trends for month, state, term, employee length, purpose, and homeownership.
-- Details: interactive table with borrower and loan information, filterable by state, grade, and status for deeper exploration.
+**Description:** This project used a dataset of 38.6K loan applications with details on loan amounts, funded and received values, borrower characteristics, and repayment outcomes. Using SQL for data cleaning and queries, and Power BI for visualization, I built an interactive dashboard with three layers: 
+- Summary: Total applications, funded vs. received amounts, good vs. bad loan split, and portfolio KPIs.
+- Overview: Trends by month, state, term, employment length, purpose, and homeownership.
+- Details: Interactive table with borrower and loan information, filterable by state, grade, and status for deeper exploration.
 
 **Skills:**
 - SQL: Data cleaning with CAST and DATEPART, aggregations with GROUP BY, filtering and summaries with COUNT and DISTINCT.
-- Power BI: Data Modeling, DAX measures (CALACULATE, SUM), time intelligence, and creating interactive dashboards with cards, charts, and navigation buttons.
+- Power BI: Data Modeling, DAX measures (CALCULATE, SUMX), time intelligence, and creating interactive dashboards with cards, charts, and navigation buttons.
 
 **Technology:** SQL, Power BI, Excel
 
@@ -87,7 +87,7 @@ In this section I highlight my data analytics and business intelligence projects
 
 ![Dashboard Preview](Pizza_Sales_Dashboard_2.png)
 
-**Goal:** To analyze pizza sales data in order to uncover top-performing products, highlight sales trends, and support data-driven decision-making for a fictional pizza business.
+**Goal:** To analyze pizza sales data to uncover top-performing products, highlight sales trends, and support data-driven decision-making for a fictional pizza business.
 
 **Description:** This project focused on analyzing a pizza sales dataset containing over 48,000 entries, including order ID, order date and time, pizza name, category, size, quantity, and total price. Key steps included cleaning the data in SQL Server by adjusting data types, renaming columns for clarity, removing unnecessary fields, and adding new columns such as “Order Hour” to support time-based analysis. Business KPIs were calculated using SQL queries, and the cleaned data was then imported into Power BI for dashboard development. The project resulted in two interactive dashboards: a Sales Overview dashboard highlighting revenue trends, order volume, and category performance; and a Best & Worst Sellers dashboard analyzing product performance across revenue, quantity sold, and number of orders.
 
@@ -107,9 +107,9 @@ In this section I highlight my data analytics and business intelligence projects
 
 ![Dashboard Preview](Electric_Vehicle_Dashboard.png)
 
-**Goal:** To analyze electric vehicle registration data in order to uncover trends in EV growth, identify the most common makes and models, evaluate vehicle eligibility for enviormental incentives. 
+**Goal:** To analyze electric vehicle registration data in order to uncover trends in EV growth, identify the most common makes and models, evaluate vehicle eligibility for environmental incentives. 
 
-**Description** This project focused on analyzing a electric vehicle dataset containing over 130,000 entries, including vehicle make, model, range, eligibility status, and registration state. Key steps included data cleaning in Python, exploratory data analysis (EDA), and interactive dashboard development in Tableau. It highlights top EV manufacturers, compares BEV vs. PHEV adoption, maps state-by-state usage, and explores vehicle eligiiblity for Clean Air Vehicle (CAV) incentives. 
+**Description** This project focuses on analyzing an electric vehicle dataset containing over 130,000 entries, including vehicle make, model, range, eligibility status, and registration state. Key steps included data cleaning in Python, exploratory data analysis (EDA), and interactive dashboard development in Tableau. It highlights top EV manufacturers, compares BEV vs. PHEV adoption, maps state-by-state usage, and explores vehicle eligibility for Clean Air Vehicle (CAV) incentives. 
 
 **Skills:** Data Cleaning, Data Analysis, EDA, Data Visualization, Interactive Dashboarding, and Filtering.
 
@@ -120,7 +120,7 @@ In this section I highlight my data analytics and business intelligence projects
 
 ## Education
 
-University of Western Ontario: Bachelors of BMOS - Business Intelligence, September 2020 - April 2025
+University of Western Ontario: Bachelors of Management and Organizational Studies (BMOS)  - Business Intelligence, September 2020 - April 2025
 
 
 ## Certificates
