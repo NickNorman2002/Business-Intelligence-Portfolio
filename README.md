@@ -45,7 +45,7 @@ In this section I highlight my data analytics and business intelligence projects
 **Dashboard:** [Click here to download the Power BI dashboard](Bank_Loan_Dashboards.pbix)
 *(When the file opens in Github, click the "View raw" button to download the dashboard.)*
 
-![Dashboard Preview](Bank_Loan_Dashboard_1.png)
+![Dashboard Preview](Bank_ Loan_Dashboard_ 1.png)
 
 ![Dashboard Preview](Bank_Loan_Dashboard_2.png)
 
