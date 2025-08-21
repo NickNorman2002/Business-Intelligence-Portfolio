@@ -42,7 +42,7 @@ In this section I highlight my data analytics and business intelligence projects
 
 **Code:** [Bank_Loan.sql](Bank_Loan.sql)
 
-**Report:** [Download Bank Loan Queries (PDF)] (./Bank%20Loan%20Queries.pdf)
+**Report:** [Download Bank Loan Queries (PDF)](Bank_Loan_Queries.pdf)
 
 **Dashboard:** [Click here to download the Power BI dashboard](Bank_Loan_Dashboards.pbix)
 *(When the file opens in Github, click the "View raw" button to download the dashboard.)*
