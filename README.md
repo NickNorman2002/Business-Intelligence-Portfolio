@@ -40,7 +40,7 @@ In this section I highlight my data analytics and business intelligence projects
 
 ## Bank Loan Analysis
 
-**Dataset:** [Financial_Loan_Data.csv](
+**Dataset:** [Financial_Loan_Data.csv](financial_loan_data.csv)
 
 **Code:** [Bank_Loan.sql](Bank_Loan.sql)
 
