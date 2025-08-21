@@ -60,19 +60,19 @@ In this section I highlight my data analytics and business intelligence projects
 **Goal:** To evaluate the bank's loan portfolio to identify overall lending patterns, repayment performance, and areas of risk. 
 
 **Description:** This project used a dataset of 38.6K loan applications with details on loan amounts, funded and recieved values, borrower characteristics, and repayment outcomes. Using SQL for data cleaning and queries, and Power BI for visualization, I built an interactive dashboard with three layers: 
-- Summary: total applications, funded vs received amounts, good vs bad loan split, and portfolio KPIs
-- Overview: trends for month, state, term, employee length, purpose, and homeownership
-- Details: interactive table with borrower and loan information, filterable by state, grade, and status for deeper exploration 
+- Summary: total applications, funded vs received amounts, good vs bad loan split, and portfolio KPIs.
+- Overview: trends for month, state, term, employee length, purpose, and homeownership.
+- Details: interactive table with borrower and loan information, filterable by state, grade, and status for deeper exploration.
 
 **Skills:**
-- SQL: Data cleaning with CAST and DATEPART, aggregations with GROUP BY, filtering and summaries with COUNT and DISTINCT
+- SQL: Data cleaning with CAST and DATEPART, aggregations with GROUP BY, filtering and summaries with COUNT and DISTINCT.
 - Power BI: Data Modeling, DAX measures (CALACULATE, SUM), time intelligence, and creating interactive dashboards with cards, charts, and navigation buttons.
 
 **Technology:** SQL, Power BI, Excel
 
 **Results:** 
 - Good vs. Bad Loans: The analysis confirmed that 86.2% of loans were good while 13.8% of loans were bad, showing that most of the portfolio is performing well but still carries a small share of risky loans.
-- Repayment Performance: Of $435.8M funded, $473.1M was received, showing healthy repayment
+- Repayment Performance: Of $435.8M funded, $473.1M was received, showing healthy repayment.
 - Loan Purpose & Terms: Debt consolidation loans brought in the most money overall ($254M received from $232M funded), well above credit cards ($65M) and home improvement ($36M). For loan terms, 36 month loans generated more revenue in total ($295M vs. $178M), while 60 month loans had higher interest rates (14.8% vs. 11%). This suggests the bank should target debt consolidation borrowers as the most profitable group and also look at growing its 60 month loans, since they earn more money on each loan even though fewer are given out.
 
 
