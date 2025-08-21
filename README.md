@@ -74,7 +74,6 @@ In this section I highlight my data analytics and business intelligence projects
 - Good vs. Bad Loans: The analysis confirmed that 86.2% of loans were good while 13.8% of loans were bad, showing that most of the portfolio is performing well but still carries a small share of risky loans.
 - Repayment Performance: Of $435.8M funded, $473.1M was received, showing healthy repayment
 - Loan Purpose & Terms: Debt consolidation loans brought in the most money overall ($254M received from $232M funded), well above credit cards ($65M) and home improvement ($36M). For loan terms, 36 month loans generated more revenue in total ($295M vs. $178M), while 60 month loans had higher interest rates (14.8% vs. 11%). This suggests the bank should target debt consolidation borrowers as the most profitable group and also look at growing its 60 month loans, since they earn more money on each loan even though fewer are given out.
-- 
 
 
 ## Pizza Sales
