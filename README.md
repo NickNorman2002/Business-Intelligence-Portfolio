@@ -40,7 +40,8 @@ In this section I highlight my data analytics and business intelligence projects
 
 ## Bank Loan Analysis
 
-**Dataset:** [Financial_Loan_Data.csv](financial_loan_data.csv)
+**Dataset:** [Financial_Loan_Data.csv](financial_loan_data.csv) 
+*(When the file opens in Github, click the "View raw" button to download the dashboard.)*
 
 **Code:** [Bank_Loan.sql](Bank_Loan.sql)
 
