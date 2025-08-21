@@ -40,6 +40,8 @@ In this section I highlight my data analytics and business intelligence projects
 
 ## Bank Loan Analysis
 
+**Dataset:** [Financial_Loan_Data.csv](
+
 **Code:** [Bank_Loan.sql](Bank_Loan.sql)
 
 **Report:** [Download Bank Loan Queries (PDF)](Bank_Loan_Queries.pdf)
