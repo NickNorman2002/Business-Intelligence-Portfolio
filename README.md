@@ -65,7 +65,7 @@ In this section I highlight my data analytics and business intelligence projects
 - Details: Interactive table with borrower and loan information, filterable by state, grade, and status for deeper exploration.
 
 **Skills:**
-- SQL: Data cleaning with CAST and DATEPART, aggregations with GROUP BY, filtering and summaries with COUNT and DISTINCT.
+- SQL: Data cleaning with CAST and DATEPART, aggregations with GROUP BY, filters and summaries with COUNT and DISTINCT.
 - Power BI: Data Modeling, DAX measures (CALCULATE, SUMX), time intelligence, and creating interactive dashboards with cards, charts, and navigation buttons.
 
 **Technology:** SQL, Power BI, Excel
