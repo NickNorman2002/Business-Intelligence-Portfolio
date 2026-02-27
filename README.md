@@ -30,7 +30,7 @@ This repository showcases my skills, share projects and track my progress in Bus
 
 - [Certificates](#certificates)
 
-- [Contact](#contact)
+- [Contacts](#contacts)
 
 
 ## Portfolio Projects
